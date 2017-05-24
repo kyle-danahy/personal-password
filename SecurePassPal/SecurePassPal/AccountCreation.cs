@@ -18,6 +18,7 @@ namespace SecurePassPal
         public AccountCreation()
         {
             InitializeComponent();
+            this.AcceptButton = BtnCreateAccount;
         }
 
         public void BtnCreateAccount_Click(object sender, EventArgs e)

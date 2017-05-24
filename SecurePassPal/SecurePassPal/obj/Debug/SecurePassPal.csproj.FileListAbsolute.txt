@@ -10,3 +10,13 @@ C:\Users\Brian\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\De
 C:\Users\Brian\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.pdb
 C:\Users\Brian\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.PasswordManager.resources
 C:\Users\Brian\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.AccountCreation.resources
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\bin\Debug\SecurePassPal.exe
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\bin\Debug\SecurePassPal.pdb
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.csprojResolveAssemblyReference.cache
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.AccountCreation.resources
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.Login.resources
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.PasswordManager.resources
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.Properties.Resources.resources
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.csproj.GenerateResource.Cache
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.exe
+C:\Users\kdana\Source\Repos\personal-password\SecurePassPal\SecurePassPal\obj\Debug\SecurePassPal.pdb
